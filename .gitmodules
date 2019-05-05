@@ -1,4 +1,4 @@
 [submodule "apriltag2"]
 	path = apriltag2
-	url = git@github.com:darrenchurchill/apriltag.git
+	url = https://github.com/darrenchurchill/apriltag.git
 	branch = devel
